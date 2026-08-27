@@ -1,5 +1,8 @@
 # Rokt SDK+ for iOS (RoktSDKPlus)
 
+> [!IMPORTANT]
+> This repository is a **release mirror**, not the development source. Propose code, dependency, manifest, and documentation changes in the [Rokt SDK+ directory of the mParticle Apple SDK monorepo](https://github.com/mParticle/mparticle-apple-sdk/tree/main/Kits/rokt-sdk-plus/rokt-sdk-plus-ios). Changes accepted upstream are mirrored here for SwiftPM and CocoaPods releases. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 **Rokt SDK+** is an umbrella that pulls the [mParticle Apple SDK](https://github.com/mParticle/mparticle-apple-sdk), the [mParticle Rokt kit](https://github.com/mparticle-integrations/mp-apple-integration-rokt) (**mParticle-Rokt** with `rokt-contracts-apple` 2.x), and [Rokt Payment Extension](https://github.com/ROKT/rokt-payment-extension-ios).
 
 Swift module and CocoaPods pod name: **`RoktSDKPlus`**.
